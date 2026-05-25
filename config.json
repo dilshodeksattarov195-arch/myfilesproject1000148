@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspave",
+        "uuid": 1305656,
+        "checksum": "95zq65"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
